@@ -7,3 +7,5 @@ The mod also allows you to configure the time required to pick up the block, inc
 that had their pickup time hardcoded. The values used by the mod are the game's default values.
 
 More information in the `README.txt` file.
+
+[youtube video](https://www.youtube.com/watch?v=zDyZiSgHO0o)
